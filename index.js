@@ -1,1 +1,2 @@
-require('./days/day2.js');
+console.log('the answer is...');
+require('./days/day1.js');
